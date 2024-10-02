@@ -56,8 +56,5 @@ git clone https://gitee.com/Frish2021/atty.git
 
 构建最终成品在`target`文件夹里面
 
-## 贡献
-...
-
 ## 请给我们一个 ⭐Star!
 > 你们的每一个⭐Star是我们前进的动力!

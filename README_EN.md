@@ -56,8 +56,5 @@ git clone https://github.com/XieFrish2021/Atty.git
 
 The final product is in the `target` folder
 
-## Contributors
-...
-
 ## Please give us a ⭐Star!
 > Each ⭐of your stars is the driving force for us to move forward!
